@@ -1,0 +1,11 @@
+
+####
+# TinyFPGA BX information: https://github.com/tinyfpga/TinyFPGA-BX/
+####
+
+# Left side of board
+set_io -pullup yes PIN_2 A1
+
+# LED
+set_io LED B3
+
