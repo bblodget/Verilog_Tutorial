@@ -1,2 +1,2 @@
-# Verilog_Tutorial
-A practical introduction to get started with FPGAs quickly.
+#Verilog_Tutorial
+A practical tutorial to get started with FPGAs quickly.
